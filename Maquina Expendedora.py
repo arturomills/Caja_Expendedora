@@ -6,7 +6,7 @@ import re
 lett_patter = '^[A-Za-z]+$'
 num_patter = '^[0-9]+$'
 
-
+#print products
 print("Productos Disponibles")
 
 producto= pd.read_csv('Existencia.csv')
