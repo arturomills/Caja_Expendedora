@@ -57,7 +57,7 @@ with open('Existencia.csv', newline='',mode= 'r+') as db:
                         print ("Dinero insuficiente")
                         
                         break
-            
+        
         else:
                 print ("Producto no encontrado, Selecione un producto correcto")
 
